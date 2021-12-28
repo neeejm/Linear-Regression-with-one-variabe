@@ -14,4 +14,4 @@ Linear regression with one variable from scratch with python.
     conda activate .\env
     jupyter notebook
     
-Then run all cells
+Then run all cells.
