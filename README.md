@@ -2,7 +2,8 @@
 
 Linear regression with one variable from scratch with python.
 
-### Requireiments
+### Requirements
+    - python3
     - pandas
     - numpy
     - matplotlib
